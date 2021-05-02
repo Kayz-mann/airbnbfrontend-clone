@@ -1,0 +1,22 @@
+#item {
+  list-style: none;
+  background-color: aquamarine;
+  object-fit: contain;
+  width: 150px;
+  padding: 5px;
+  margin-left: -30px;
+  transition: 1.5s;
+  box-shadow: gray 5px;
+  cursor: pointer;
+}
+
+#dropdown {
+  padding: 10px;
+  color: blue;
+  background-color: #fff;
+  border-color: blue;
+  border: solid 1px;
+  box-shadow: dimgrey 5px;
+  outline: none;
+  transition: 1.5s;
+}
